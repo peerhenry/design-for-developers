@@ -12,7 +12,7 @@ My notes for the course "Design for Developers" by Sarah Drasner
 - [colorzilla gradient editor](https://www.colorzilla.com/gradient-editor/)
 
 #### Animated gradients
-- [Animating transparent mask](https://codepen.io/sdras/pen/akAWPR/)
+- [Animating transparent mask](https://codepen.io/sdras/pen/akAWPR/) (codepen)
 
 #### How to create a palette
 - Make a spectrum of an anchor color
@@ -20,7 +20,7 @@ My notes for the course "Design for Developers" by Sarah Drasner
 - Get your accents
 
 #### Creating a palette demo
-- [unsplash](https://unsplash.com/)
+- [unsplash](https://unsplash.com/) free hi-res images
 
 
 ## Typography
